@@ -1,0 +1,10 @@
+= Leetcode Solution In Java
+
+
+|===
+|Problem |Source Code
+
+|https://leetcode.cn/problems/two-sum/[1. Two Sum]
+|link:src/main/TwoSum_01.java[TwoSum]
+
+|===
